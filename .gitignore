@@ -1,0 +1,14 @@
+# IntelliJ IDEA Project files
+*.iml
+*/*.iml
+/.idea
+/*/target
+
+
+
+# Eclipse Project files
+.classpath
+.project
+.settings/
+
+/mizout-db/src/main/resources/jdbc.properties
